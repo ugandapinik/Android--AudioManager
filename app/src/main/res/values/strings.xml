@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SensorsList</string>
+
+    <!-- APP INFORMATION -->
+    <string name="Name">Profile Manager</string>
+    <string name="mode">Mode</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="ringing">Ringing</string>
+    <string name="silent">Slient</string>
+</resources>
